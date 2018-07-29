@@ -6,4 +6,4 @@ def parrot(phrase = "Squawk")
   return "#{parrot_says}!"
 end
 
-parrot("Pretty bird!")
+parrot("Pretty bird")
